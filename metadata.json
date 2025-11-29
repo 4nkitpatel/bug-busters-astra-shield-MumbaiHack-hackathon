@@ -1,0 +1,5 @@
+{
+  "name": "AstraShield",
+  "description": "A forensic AI agent that verifies disaster relief flyers, QR codes, and donation requests to prevent fraud using multimodal analysis and real-time grounding.",
+  "requestFramePermissions": []
+}
