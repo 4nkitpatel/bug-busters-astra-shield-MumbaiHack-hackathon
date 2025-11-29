@@ -1,0 +1,35 @@
+# Core Dependencies
+openai>=1.12.0
+anthropic>=0.18.0
+google-generativeai>=0.8.0
+google-api-python-client>=2.100.0
+pillow>=10.0.0
+pytesseract>=0.3.10
+qrcode>=7.4.2
+pyzbar>=0.1.9
+
+# FastAPI and Web
+fastapi>=0.109.0
+uvicorn>=0.27.0
+python-multipart>=0.0.6
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# HTTP Requests
+httpx>=0.26.0
+requests>=2.31.0
+
+# Data Processing
+pydantic>=2.5.0
+python-dateutil>=2.8.2
+
+# MCP Framework
+mcp>=0.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+aiofiles>=23.2.1
+
+# Domain/URL Analysis
+whois>=0.9.0
+dnspython>=2.4.2
