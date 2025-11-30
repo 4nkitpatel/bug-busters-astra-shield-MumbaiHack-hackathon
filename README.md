@@ -2,8 +2,6 @@
 
 A forensic AI agent that verifies disaster relief flyers, QR codes, and donation requests to prevent fraud using multimodal analysis and real-time grounding.
 
-🌐 **Live Demo**: [bug-busters-astra-shield-mumbai-hac.vercel.app](https://bug-busters-astra-shield-mumbai-hac.vercel.app)
-
 ## 🛡️ Overview
 
 AstraShield is an intelligent verification system designed to combat predatory scams in disaster relief efforts. It uses advanced AI to analyze images of help flyers, QR codes, and social media posts, then performs comprehensive background checks to verify legitimacy.
